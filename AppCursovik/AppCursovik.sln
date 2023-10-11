@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33214.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppCursovik", "AppCursovik\AppCursovik.csproj", "{532B1C43-68F5-48C5-B6C8-240CE1E323B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{532B1C43-68F5-48C5-B6C8-240CE1E323B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{532B1C43-68F5-48C5-B6C8-240CE1E323B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{532B1C43-68F5-48C5-B6C8-240CE1E323B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{532B1C43-68F5-48C5-B6C8-240CE1E323B7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {03CEA108-13FC-447C-9F91-9FBF745819B6}
+	EndGlobalSection
+EndGlobal
